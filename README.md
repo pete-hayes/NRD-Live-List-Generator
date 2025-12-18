@@ -27,5 +27,8 @@ This feed contains domains registered within the last seven days.
 ## Security Guidance
 Newly registered domains often present elevated risk. Before accessing any links, it is recommended to use Remote Browser Isolation or an equivalent security solution.
 
+## License
+Licensed under MIT — free to use, modify, and share, with no warranty.
+
 ## Disclaimer
 Newly registered domains are frequently associated with phishing, malware, and fraud. This project does not validate domain safety and should not be used as a trust signal. Accessing any generated links is done entirely at the user’s own risk.
