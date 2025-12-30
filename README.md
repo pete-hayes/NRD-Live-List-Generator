@@ -1,5 +1,5 @@
 # NRD Live List Generator
-NRD Live List Generator is a PowerShell-based utility that retrieves newly registered domains, performs basic HTTPS reachability validation, and generates a local HTML report containing only domains that respond successfully over HTTPS.
+NRD Live List Generator is a PowerShell-based utility that retrieves newly registered domains (NRDs), performs basic HTTPS reachability validation, and generates a local HTML report containing only domains that respond successfully over HTTPS.
 
 This project is designed for security research of newly registered domains, which are frequently associated with phishing, malware delivery, and fraud.
 
